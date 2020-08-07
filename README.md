@@ -1,6 +1,8 @@
 Run on terminal:
 $python find_top_answer.py 5 python
 Output:
+
+
 What does the &quot;yield&quot; keyword do?, link to top answer in top: 
  https://stackoverflow.com/questions/231767/what-does-the-yield-keyword-do/231855#231855
 What does if __name__ == &quot;__main__&quot;: do?, link to top answer in top: 
